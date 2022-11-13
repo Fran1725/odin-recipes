@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    color:chocolate;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+}
+h2{
+    color:blue;
+    text-align: center;
+    text-decoration: dashed;
+}
+div{
+    text-align: center;
