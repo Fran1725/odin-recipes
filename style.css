@@ -9,7 +9,8 @@ h1{
 h2{
     color:blue;
     text-align: center;
-    text-decoration: dashed;
+    border-bottom-style: double;
+    border-color: orange;
 }
 div{
     text-align: center;
